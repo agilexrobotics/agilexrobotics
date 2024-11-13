@@ -10,7 +10,7 @@ Open source projects
 
 | Title                        | Description                                                  |
 | ---------------------------- | ------------------------------------------------------------ |
-| AgileX-Robotics-user-manuals | The user manuals for all agilex chassis can be found [here](https://github.com/agilexrobotics/AgileX-Robotics-all-products-user-manuals). |
+| AgileX-Robotics-user-manuals | The user manuals for all agilex chassis can be found [here](https://global.agilex.ai/pages/manual). |
 | UGV_GAZEBO_SIM               | The Gazebo simulation and URDF models for the chassis can be found [here](https://github.com/agilexrobotics/ugv_gazebo_sim). |
 | UGV_SDK                      | The [UGV_SDK](https://github.com/agilexrobotics/ugv_sdk) for chassis development is available in C++ and can be used in Linux、Windows. |
 | ROS1 DRIVER                  | The ROS1 driver packages for the chassis include the [Scout](https://github.com/agilexrobotics/scout_ros) series, [Hunter](https://github.com/agilexrobotics/hunter_ros) series, [Bunker](https://github.com/agilexrobotics/bunker_ros) series,[Tracer](https://github.com/agilexrobotics/tracer_ros) series, [Limo](https://github.com/agilexrobotics/limo_ros) series, and [Ranger](https://github.com/agilexrobotics/ranger_ros) series. |
