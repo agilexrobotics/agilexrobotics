@@ -27,6 +27,9 @@ Open source projects
 | NAVIS                        | The API usage demos for the [NAVIS](https://github.com/agilexrobotics/Navis) navigation system are available here. Development is primarily done on Ubuntu 18.04, and Windows is not supported. |
 | LIFTING                      | The usage instructions for the Agilex lifting pole, along with the [ROS1](https://github.com/agilexrobotics/lifting_ws) and [ROS2](https://github.com/agilexrobotics/lifting_ws_ros2) driver code, are available here. |
 | PIKA                         | The document provides the installation and usage instructions for the [Pika driver](https://github.com/agilexrobotics/pika_ros/tree/master). |
+| Camera driver                | [OrbbecSDK ROS](https://github.com/orbbec/OrbbecSDK_ROS1) driver and [OrbbecSDK ROS2](https://github.com/orbbec/OrbbecSDK_ROS2) driver；[Realsense ROS](https://github.com/IntelRealSense/realsense-ros) driver |
+
+
 
 
 
