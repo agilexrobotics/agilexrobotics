@@ -10,11 +10,9 @@ To accelerate industry progress, AgileX has launched a data-sharing program that
 
 
 
-Open source projects
-
 | **Title**                                         | **Description**                                              |
 | ------------------------------------------------- | ------------------------------------------------------------ |
-| 【User Manual】AgileX-Robotics-user-manuals       | [EN Manual](https://global.agilex.ai/pages/manual) [中文手册](https://agilexsupport.yuque.com/staff-hso6mo/dna5gm/gi7odbvgetmuvtzw?singleDoc) |
+| 【User Manual】AgileX-Robotics-user-manuals       | [EN Manual](https://global.agilex.ai/pages/manual)<br /> [中文手册](https://agilexsupport.yuque.com/staff-hso6mo/dna5gm/gi7odbvgetmuvtzw?singleDoc) |
 | 【Ecosystem Content】Open Source Technology Posts | [Agilex-College](https://github.com/agilexrobotics/Agilex-College)，AgileX Robot product open‑source examples and tutorials (PIPER\|NERO\|LIMO function demos) |
 | 【URDF】UGV_GAZEBO_SIM                            | [UGV_GAZEBO_SIM](https://github.com/agilexrobotics/ugv_gazebo_sim)， includes chassis: Scout Series; Ranger Series; Hunter Series; Bunker Series; Tracer Series; Limo Series |
 | 【C++ SDK】UGV_SDK                                | The [UGV_SDK](https://github.com/agilexrobotics/ugv_sdk) for chassis development is available in C++ and can be used in Linux、Windows. |
